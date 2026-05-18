@@ -1,0 +1,8 @@
+{
+  "name": "Animal Matcher",
+  "description": "A fun memory matching game for two players featuring cute animal cards. Three difficulty levels to test your memory!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
